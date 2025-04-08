@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "hello bot"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! 👋 How can I assist you today? If you have any questions about Lao Viet Bank's services, feel free to ask! 😊"
+  }
+]

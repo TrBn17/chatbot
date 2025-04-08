@@ -1,0 +1,17 @@
+# LangChain + LangGraph
+langchain==0.1.16
+langchain-core==0.2.1
+langgraph==0.0.35
+
+# Flask app
+flask==2.3.3
+flask-cors==4.0.0
+
+# ChromaDB Client
+chromadb==0.4.22  # hoặc version đại ca đang dùng, nhớ khớp với server
+
+# OpenAI SDK
+openai==1.14.2  # >=1.0.0 để dùng API mới
+
+# Tiện ích
+python-dotenv==1.0.1  # Load biến môi trường từ .env
